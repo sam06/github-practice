@@ -1,1 +1,2 @@
 this is the version v0.1 for the software
+this is version v0.2 of the software updationg directly from github repo
